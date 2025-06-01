@@ -21,6 +21,6 @@ DiviDaisy is an Android application developed for ICT602 Assignment 1. The app p
 ## 🖼️ Screenshots
 Add screenshots here using:
 ```markdown
-![Home Screen](images/screenshot1.png)
-![Calculation Result](images/screenshot2.png)
-![About](images/screenshot2.png)
+![Home Screen](home_screen.png)
+![Calculation Result](calculateDedividen.png)
+![About](about_page.png)
