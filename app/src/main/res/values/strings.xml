@@ -1,0 +1,31 @@
+<resources>
+    <!-- App Information -->
+    <string name="app_name">DiviDaisy</string>
+    <string name="app_description">Unit Trust Dividend Calculator</string>
+    <string name="app_logo_desc">DiviDaisy Logo</string>
+    <string name="about_app_title">About DiviDaisy</string>
+    <string name="about_title">About DiviDaisy</string> <!-- Added for the action bar title -->
+
+    <!-- Main Activity -->
+    <string name="invested_amount_hint">Invested Amount (RM)</string>
+    <string name="dividend_rate_hint">Annual Dividend Rate (%)</string>
+    <string name="months_invested_hint">Number of Months (Max 12)</string>
+    <string name="calculate_button">Calculate Dividend</string>
+    <string name="monthly_result_default">Monthly Dividend: RM0.00</string>
+    <string name="total_result_default">Total Dividend: RM0.00</string>
+    <string name="monthly_result">Monthly Dividend: RM%s</string>
+    <string name="total_result">Total Dividend: RM%s</string>
+
+    <!-- About Activity -->
+    <string name="author_header">Author Information</string>
+    <string name="author_name">Name: Nur Hidayah Hakimi</string>
+    <string name="author_matric">Matric No: 2023136187</string>
+    <string name="author_course">Course: RCDCS240</string>
+    <string name="github_button">GitHub: hidayahhakimi</string>
+    <string name="github_link_text">Visit us on GitHub</string> <!-- Added for the clickable link -->
+    <string name="copyright">© 2025 DiviDaisy</string>
+
+    <!-- Menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+</resources>
