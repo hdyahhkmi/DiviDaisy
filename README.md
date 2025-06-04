@@ -15,8 +15,7 @@ DiviDaisy is an Android application developed for ICT602 Assignment 1. The app p
 
 🚀 How to Use
 1. Download the APK from the [Releases](https://github.com/hdyahhkmi/DiviDaisy/releases) section.
-2. Install it on your Android device (enable "Install from Unknown Sources" if needed).
-3. Open the app, enter the required details, and click "Calculate" to view the dividend result.
+2. Open the app, enter the required details, and click "Calculate" to view the dividend result.
 
 ## 🖼️ Screenshots
 
